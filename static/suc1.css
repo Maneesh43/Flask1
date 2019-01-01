@@ -1,0 +1,22 @@
+body{
+	background-color: gray;
+	position:relative;
+	background-image: url("h.gif");
+	background-position: top right;
+	background-repeat: no-repeat;
+}
+h1{
+	color: red;
+	font-family:Helvetica;
+	text-align: left: ;
+	font-size: 4vw;
+	font-style:italic;
+	padding-right: 400px;
+}
+p{
+	color: cyan;
+	font-family:Helvetica;
+	text-align: left: ;
+	font-size: 3vw;
+	padding-right: 500px;
+}
