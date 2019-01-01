@@ -15,5 +15,3 @@ def check1():
 	else:
 		user = request.args.get('nm')
 		return redirect(url_for('success',name=user))
-if __name__ == '__main__':
-        app.run()
