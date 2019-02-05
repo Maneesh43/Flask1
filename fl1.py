@@ -17,5 +17,4 @@ def check1():
 		return redirect(url_for('success',name=user))
 @app.errorhandler(404)
 def page_not_found(e):
-    # note that we set the 404 status explicitly
     return render_template('error.html'), 404
