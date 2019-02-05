@@ -3,4 +3,5 @@ background-image: url("h1.gif");
 background-color:grey;
 align:center;
 background-repeat:no-repeat;
+  background-size:cover;
 }
